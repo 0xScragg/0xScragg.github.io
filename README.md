@@ -1,2 +1,3 @@
-# 0xScragg.github.io
-Cyber Security Blog.
+# Just another hacker blog...
+
+#### Nothing to see yer, she's still a work in progress.
